@@ -1,1 +1,1 @@
-# m2_u2
+This is Telegram bot which helps you to know more about our enviroment and it is suitable for children and teenegers.So if you want to know something new and help our planet than use this Bot and he explains you all about it. 
